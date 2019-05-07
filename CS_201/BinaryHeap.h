@@ -1,13 +1,4 @@
-//============================================================================
-// Name        : BinaryHeap.h
-// Author      : Hasan Sozer
-// Version     : 1.2
-// Copyright   : (c) 2014 Ozyegin University
-// Description : Includes the header file of the BinaryHeap class that will be 
-//               used as part of the program to be submitted as Homework 3,  
-//               which is assigned in the context of the course CS201, 
-//               Data Structures and Algorithms.
-//============================================================================
+
 #ifndef __BINARYHEAP__
 #define __BINARYHEAP__
 
@@ -29,7 +20,7 @@ private:
 	int capacity; // keeps the total capacity of the heap
 	void percolateDown(int);
 	void swap(int, int);
-	
+
 };
 
 #endif
