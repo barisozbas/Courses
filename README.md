@@ -7,3 +7,5 @@ Homeworks, projects related to my courses.
 ## CS350 - Operating Systems
 - Added pdf instructions of the homeworks. All 100 point solutions. 
 - Readme files are committed, includes basically what the exercise is about.
+
+## CS451 - Introduction to Artifical Intelligence
