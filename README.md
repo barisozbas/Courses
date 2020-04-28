@@ -1,5 +1,5 @@
 # Courses
-Homeworks, projects related to my courses.  
+Homeworks, projects, assignments related to my courses.  
 
 ## CS201 - Data Structures and Algorithms
 - Includes implementation of Quicksort, Heapsort, Insertion sort and their better performed versions.   
@@ -9,3 +9,5 @@ Homeworks, projects related to my courses.
 - Readme files are committed, includes basically what the exercise is about.
 
 ## CS451 - Introduction to Artifical Intelligence
+
+## CS450 - Distributed Systems and Cloud Computing
