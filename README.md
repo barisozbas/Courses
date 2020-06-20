@@ -8,6 +8,6 @@ Homeworks, projects, assignments related to my courses.
 - Added pdf instructions of the homeworks. All 100 point solutions. 
 - Readme files are committed, includes basically what the exercise is about.
 
-## CS451 - Introduction to Artifical Intelligence
-
 ## CS450 - Distributed Systems and Cloud Computing
+
+## CS451 - Introduction to Artifical Intelligence
