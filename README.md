@@ -1,12 +1,10 @@
 # Courses
-Homeworks, projects, assignments related to my courses.  
+Homeworks, projects, assignments related to my courses. **All of them are 100 point solutions**. 
 
 ## CS201 - Data Structures and Algorithms
 - Includes implementation of Quicksort, Heapsort, Insertion sort and their better performed versions.   
 
 ## CS350 - Operating Systems
-- Added pdf instructions of the homeworks. All 100 point solutions. 
-- Readme files are committed, includes basically what the exercise is about.
 
 ## CS450 - Distributed Systems and Cloud Computing
 
