@@ -1,1 +1,1 @@
-# Socket programming example in C
+# Socket programming in C
